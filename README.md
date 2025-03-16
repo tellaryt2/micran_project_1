@@ -11,3 +11,4 @@
 встречаются раньше. Возвращается «истина» при данном значении на 541 итерации.
 
 3 Задание -
+![alt text](https://github.com/tellaryt2/micran_project_1/blob/main/Tasks/Figure_1.png?raw=true)
